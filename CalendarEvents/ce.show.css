@@ -1,0 +1,77 @@
+﻿div.ceDescDiv,div.ceWSDescDiv{margin-top:10px;margin-bottom:10px;font-size:1em;}
+div.ceDescDiv{padding-bottom:10px;width:300px;}
+div.ceDiv{margin-top:10px;width:300px;}
+a.ceSignUpLink{margin-left:5px;cursor:pointer;}
+div.ceaEvents{padding-bottom:10px;}
+.ceDiv a:link,.ceDiv a:visited{font-size:1.2em;}
+img.picimg{width:300px;margin-bottom:10px;}
+div.picdate,div.pictitle,div.todayDate,div.todayContent{float:left;}
+.picdate{font-size:1.8em;font-weight:bold;width:40px;text-align:center;margin-right:15px;color:#333;}
+div.picdesc{float:none;clear:both;margin-bottom:15px;overflow:hidden;width:300px;}
+.picdesc{text-decoration:none;color:#333;}
+div.pictitle{width:230px;padding-right:5px;margin-bottom:15px;height:70px;overflow:hidden;}
+.pictitle h2{font-size:1.8em;}
+div.picdate{height:80px;}
+.glyphicon-calendar,.fa{cursor:pointer;}
+div.attendees{padding:10px;position:absolute;background-color:#FFF;}
+i{margin-right:5px;}
+div.piccard{margin-right:20px;margin-bottom:20px;border:1px #eaeaea solid;padding:15px;width:300px;}
+div.pictile {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px #eaeaea solid;
+    padding: 15px;
+    width: 300px;
+    float:left;
+
+}
+.people  div,.outlook span,.sig span{float:left;margin-right:10px;margin-top:10px;font-size:0.8em;margin-bottom:10px;}
+.people,.outlook,.sig{color:#333;}
+div.nl{float:none;clear:both;}
+#ceNext:hover{color:#c00000;}
+div#ceNext{padding-top:15px;}
+div.picloc{margin-bottom:10px;text-decoration:none;}
+.picloc{color:#333;}
+div.peoplelist{background-color:#333;color:#FFF;padding:5px;}
+.todaydate{font-size:1.8em;font-weight:bold;width:40px;text-align:center;margin-right:15px;}
+div.todayt,div.todayContent,div.todayBigDate,div.todayHour{float:left;}
+div.todayt{width:180px;}
+div.todayHour{width:70px;float:left;}
+div.todayBigDate{width:60px;}
+div.todayContent{width:320px;}
+div.picloc{width:300px;height:20px;overflow:hidden;clear:both;}
+div.todayTitle{margin-bottom:20px;width:220px;clear:both;padding-top:25px;}
+div.picdet{float:none;clear:both;max-width:600px;margin-top:10px;}
+div.timediv{margin-bottom:15px;}
+.people,.outlook,.sig{cursor:pointer;}
+.ms-cui-ctl-medium[id="Ribbon.ListForm.Display.Manage.ManagePermissions-Medium"]{
+ display:none;visibility:hidden;
+}
+
+div#npleft,div#npright{float:left;}
+/* 
+.left-pos
+{
+      
+    -webkit-transition:all 1.0s ease-in-out;
+  -moz-transition:all 1.0s ease-in-out;
+  -o-transition:all 1.0s ease-in-out;
+  transition:all 1.0s ease-in-out;
+   
+}
+*/
+a,a:link,a:visited{text-decoration:none;}
+a, .ms-link:visited {
+    color: #333;
+    text-decoration: none;
+}
+div.ceBackBtn{margin-bottom:15px;}
+div.ceSeats{
+    clear:both;
+}
+.eimage img{max-width:90%;}
+
+
+
+
+

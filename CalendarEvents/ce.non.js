@@ -1,0 +1,23 @@
+﻿var vars = {
+    ceContent: function () { return "ceContent"; },
+    ceProps: function () { return "ceProps"; },
+    ceDiva: function () { return "ceDiva"; },
+    get_att: function () { return "title"; },
+    get_div: function () { return "div"; },
+    get_href: function () { return "href"; },
+    get_hash: function () { return "#"; },
+    get_class: function () { return "class"; },
+    get_class: function () { return "class"; },
+    lendar: function () { return "Calendar"; },
+    customCSS: function () { return util.getProperty("CustomCSS"); },
+    ShowSignUp: function () { return util.getProperty("ShowSignUp"); },
+    ShowAdd: function () { return util.getProperty("ShowAdd"); },
+    ShowAtt: function () { return util.getProperty("ShowAtt"); },
+    View: function () { return util.getProperty("View"); },
+    SenderId: function () { return util.getProperty("SenderId"); },
+    SPHostUrl: function () { return util.getProperty("SPHostUrl"); },
+    SPAppWebUrl: function () { return util.getProperty("SPAppWebUrl"); },
+    ID:function(){return util.getProperty("ID");},
+    IE8: function () { return navigator.appVersion.indexOf('MSIE 8'); },
+    IE7: function () { return navigator.appVersion.indexOf('MSIE 7');}
+};

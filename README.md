@@ -1,6 +1,7 @@
 # sonjasapps
 SONJASAPPS, award winning SharePoint apps for Office 365
-
+Start: July 2012
+End of life: September 2017
 
 Modules
 Simple framwork for CRUD operations, statistics, user/trial management

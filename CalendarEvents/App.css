@@ -1,0 +1,23 @@
+﻿#s4-titlerow{display:none;visibility:hidden;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    height: 0px;
+}
+.modal-title,.modal-body{color:#FFF;}
+#contentRow {padding-top: 0px;}
+.ms-core-deltaSuiteLinks{display:none;}
+table{background-color:#FFF;}
+a,a:visited{color:#c00000;}
+a:hover{color:#333;}
+body, h2, h3{color:#333;}
+div#ceContent{padding-top:20px;clear:both;}
+div.ceDiva{margin-bottom:20px;}
+div.atitle{padding:5px;padding-left:0;}
+.atitle a{margin-right:15px;}
+.listlink{cursor:pointer;}
+div.numbers{margin-bottom:20px;}
+body{background-color:#FFF;}
+

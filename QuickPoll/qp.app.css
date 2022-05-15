@@ -1,0 +1,41 @@
+.saComment {margin-top: 10px;margin-bottom:10px;}
+.saImportant {margin-bottom:10px;font-weight:bold;margin-top:10px;}
+.saText {padding:10px;border: 1px solid #cc0000;}
+#qpContentStart{margin-top:20px;}
+#qpResult,.qpBtns{margin-top:20px;margin-bottom:20px;}
+div#qpAdmin,.qpBtns {margin-left: 0px;}
+#qpContentStart, #qpContentDelete, #qpContentStat,#qpContentEdit {display:none;padding:10px;}
+#qpProcent {color:transparent;font-size:6px;height:16px;}
+#qpAnswer {clear: both;padding-top:10px;}
+div#qpProcentNo, div#qpProcent {float: left;}
+div#qpProcentNo {width: 70px;}
+div#qpResults {clear: both;margin-top:7px;}
+#qpQuestion,#qpTitle {margin-bottom: 10px;}
+#qpAnswerNumbers{clear: both;padding-top:10px; font-family:Arial; font-weight:bold;font-size:20px;}
+div.qpOkBtn {margin-top: 10px;}
+#qpCanRes {display: block;}
+#qpch {margin-bottom: 20px;}
+div#qpCounterText,div.ms-webpart-titleText,div#qpna{margin-bottom:5px;}
+div#qpAllStat,div#qpQuestion {margin-top:10px;}
+div.ms-surveyHBar {background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#333), to(#dadada));background: -webkit-linear-gradient(top, #dadada, #333);background: -moz-linear-gradient(top, #dadada, #333);background: -ms-linear-gradient(top, #dadada, #333);background: -o-linear-gradient(top, #dadada, #333);}
+#qpChoices input {margin-bottom:3px;}
+.qpStatPrDisplay{float:left;margin-left:3px;margin-right:10px;width:50px;}
+div#qpAllStat{clear:both;}
+.pd{padding-top:20px;}
+.air{padding-bottom:15px;}
+.rightair{padding-right:20px;}
+.currenttitle{float:left;padding-top:20px;}
+.listlink{margin-right:10px;padding:5px;}
+.barcolor{background-color:#333333;}
+.displaytable{display:table;margin-bottom:5px;}
+.displaycell{display:table-cell;}
+div#qpCurrent{padding-bottom:20px;}
+body{background-color:#FFF;}
+input#CreatePoll {
+    margin-top: 10px;
+}
+
+.qpStartText {
+    font-size: 0.9em;
+    color: #333;
+}
